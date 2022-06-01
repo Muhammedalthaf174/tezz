@@ -86,4 +86,4 @@ If android then execute this cd command ```cd /storage/emulated/0/scenario``` el
 [^TeamScenario]: *©2022 TeamScenario All rights reserved!*
 
 Eroko
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Muhammedalthaf174/TezzaRobot">
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Muhammedalthaf174/Tezz">
